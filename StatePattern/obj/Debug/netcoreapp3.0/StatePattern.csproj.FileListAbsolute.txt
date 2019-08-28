@@ -1,0 +1,11 @@
+C:\Users\boyan.mihaylov\source\repos\DesignPatternsSandBox\StatePattern\obj\Debug\netcoreapp3.0\StatePattern.AssemblyInfoInputs.cache
+C:\Users\boyan.mihaylov\source\repos\DesignPatternsSandBox\StatePattern\obj\Debug\netcoreapp3.0\StatePattern.AssemblyInfo.cs
+C:\Users\boyan.mihaylov\source\repos\DesignPatternsSandBox\StatePattern\bin\Debug\netcoreapp3.0\StatePattern.exe
+C:\Users\boyan.mihaylov\source\repos\DesignPatternsSandBox\StatePattern\bin\Debug\netcoreapp3.0\StatePattern.deps.json
+C:\Users\boyan.mihaylov\source\repos\DesignPatternsSandBox\StatePattern\bin\Debug\netcoreapp3.0\StatePattern.runtimeconfig.json
+C:\Users\boyan.mihaylov\source\repos\DesignPatternsSandBox\StatePattern\bin\Debug\netcoreapp3.0\StatePattern.runtimeconfig.dev.json
+C:\Users\boyan.mihaylov\source\repos\DesignPatternsSandBox\StatePattern\bin\Debug\netcoreapp3.0\StatePattern.dll
+C:\Users\boyan.mihaylov\source\repos\DesignPatternsSandBox\StatePattern\bin\Debug\netcoreapp3.0\StatePattern.pdb
+C:\Users\boyan.mihaylov\source\repos\DesignPatternsSandBox\StatePattern\obj\Debug\netcoreapp3.0\StatePattern.dll
+C:\Users\boyan.mihaylov\source\repos\DesignPatternsSandBox\StatePattern\obj\Debug\netcoreapp3.0\StatePattern.pdb
+C:\Users\boyan.mihaylov\source\repos\DesignPatternsSandBox\StatePattern\obj\Debug\netcoreapp3.0\StatePattern.csprojAssemblyReference.cache
